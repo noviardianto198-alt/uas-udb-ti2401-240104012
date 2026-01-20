@@ -1,3 +1,4 @@
+HEAD
 # Clickjacking Vulnerability Checker
 
 Aplikasi web sederhana untuk memeriksa apakah sebuah website rentan terhadap serangan **clickjacking**.
@@ -113,3 +114,8 @@ uas-udb-ti2401/
 ## 📝 Lisensi
 
 Proyek ini dibuat untuk tugas UAS UDB TI2401.
+UAS Manajemen Jaringan  
+Nama: Novi Ardianto  
+NIM: 240104012  
+
+origin/uasmanajemenjaringan
